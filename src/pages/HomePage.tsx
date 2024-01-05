@@ -1,4 +1,4 @@
-import Canvas from "../components/Canvas/Canvas";
+import Canvas from "../container/Canvas";
 
 const MainPage = () => {
   return <Canvas />;
